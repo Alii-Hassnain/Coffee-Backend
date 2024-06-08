@@ -1,0 +1,16 @@
+{
+  "name": "coffeebackend",
+  "version": "1.0.0",
+  "description": "this for the backend learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javacript",
+    "backend",
+    "coffee"
+  ],
+  "author": "Ali Hassnain",
+  "license": "ISC"
+}
